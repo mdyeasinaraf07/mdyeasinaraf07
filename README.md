@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Yeasin Arafat.
 #### I'm a Learner, Competitive Programmer
-![Competitive Programmer](https://media-exp1.licdn.com/dms/image/D5616AQHqBFLV9V-WMg/profile-displaybackgroundimage-shrink_350_1400/0/1669232130682?e=1675296000&v=beta&t=aVIBn1Sy-PAzL60857FXxO0fTG2g4zA5wqb_FbEavGE)
+![Competitive Programmer](https://codeforces.com/profile/mdyeasinaraf07)
 
 Recently I am doing a diploma in engineering in CSE at a well-known college in Bangladesh.
 
