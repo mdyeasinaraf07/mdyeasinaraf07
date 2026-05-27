@@ -1,10 +1,10 @@
-### Hi there 👋, I'm Yeasin Arafat.
-#### I'm a Learner, Competitive Programmer
+### Hi there, I'm Md Yeasin Arafat.
+#### I'm a Learner, Competitive Programmer, and AI Automation Expert.
 [Competitive Programmer](https://codeforces.com/profile/mdyeasinaraf07)
 
-Recently I am doing a diploma in engineering in CSE at a well-known college in Bangladesh.
+Recently I have completed my diploma program in engineering in CSE at a well-known college in Bangladesh.
 
-Skills: C / C++ / JS / HTML / CSS
+Skills: C / C++ / JS / HTML / CSS / AI Automation / English.
 
 - 🔭 I’m currently working on Competitive Programmer 
 - 👯 I’m looking to collaborate on Software Engineer 
