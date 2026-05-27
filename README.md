@@ -28,6 +28,11 @@ I am a Computer Science & Technology graduate from Bangladesh, specialized in **
 
 🔗 **Let's Connect & My Programming Hub:**
 
+### 📊 Competitive Programming Stats
+<p align="left">
+  <img src="https://cf-readme-stats.vercel.app/api?username=mdyeasinaraf07&theme=dark" alt="Codeforces Stats" />
+</p>
+
 <p align="left">
 <a href="https://linkedin.com/in/md-yeasin-arafat-848387244" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/mdyeasinaraf07" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
