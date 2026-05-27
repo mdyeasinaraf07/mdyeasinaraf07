@@ -1,4 +1,4 @@
-# Hi there, I'm Md Yeasin Arafat!
+# Hi there, I'm Md Yeasin Arafat! 
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -7,22 +7,22 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python (Learning)" />
 </p>
 
-### About Me
+###  About Me
 
-I am a Computer Science & Technology graduate from Bangladesh, specialized in **AI Automation** and **Competitive Programming**. I love building smart workflows with **n8n** and optimizing backend logic with C++ and JavaScript. My goal is to become a Full-Stack AI Solutions Engineer by early 2027.
+I have successfully completed my **Diploma in Computer Science & Technology** from Bangladesh. I am highly passionate about **AI Automation** and **Competitive Programming**. I specialize in building smart workflows using **n8n**, integrating advanced APIs, and optimizing core backend logic with C++ and JavaScript. My ultimate goal is to scale up as a Full-Stack AI Solutions Engineer by early 2027.
 
 --------------------------------------------------
 
 🛠️ **Technical Toolbox:**
-* **AI & No-Code:** n8n, Make.com, API Integrations, AI Agents
+* **AI & No-Code:** n8n, Make.com, API Integrations, AI Agents, Prompt Engineering
 * **Programming Languages:** C, C++, JavaScript (Node.js), Python (Core - Learning)
 * **Backend & Data:** Node.js, Express, REST APIs, JSON, Google Sheets Automation
 
 --------------------------------------------------
 
-🔭 **Current Projects:**
+🔭 **Current Projects & Focus:**
 * **Sahajatri Health (সহযাত্রী হেলথ):** Developing an end-to-end healthcare chat automation using n8n and AI Agents. (Building in Public!)
-* **Competitive Programming:** Regularly solving algorithmic problems to sharpen my problem-solving skills.
+* **Competitive Programming:** Constantly training my brain and refining problem-solving metrics on various online judges.
 
 --------------------------------------------------
 
