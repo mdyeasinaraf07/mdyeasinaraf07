@@ -21,7 +21,7 @@ I specialize in architectural optimization—building cost-optimized, determinis
 
 I constantly train my brain to handle scale, edge cases, and runtime optimizations through algorithmic problem-solving:
 * 🏆 **500+ Algorithmic Problems Solved** across multiple online judges.
-* 🔴 **AtCoder:** Peak Rating **1300+**
+* 🔴 **CodeChef:** Peak Rating **1393**(Almost- ★★).
 * 🔵 **Codeforces:** Active Contestant with a **900+** Rating.
 * 🤝 **Contest History:** Participated in UGV Programming Contest (SZPC 2022 & 2023).
 
