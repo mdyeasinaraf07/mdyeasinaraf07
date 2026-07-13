@@ -1,50 +1,103 @@
-# Hi there, I'm Md Yeasin Arafat!
+# 👋 Hi, I'm Md Yeasin Arafat
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/AI%20Automation-00599C?style=for-the-badge&logo=ai&logoColor=white" alt="AI Automation" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/RAG-FF6B00?style=for-the-badge&logo=vector&logoColor=white" alt="RAG" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Automation" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python (Learning)" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### About Me
+## 🚀 AI Automation Engineer | n8n & Workflow Automation Specialist
 
-I have successfully completed my **Diploma in Computer Science & Technology** from Bangladesh. I am highly passionate about **AI Automation** and **Competitive Programming**. I specialize in building smart workflows using **n8n**, integrating advanced APIs, and optimizing core backend logic with C++ and JavaScript. My ultimate goal is to scale up as a Full-Stack AI Solutions Engineer by early 2027.
+> **"I build deterministic AI pipelines that reduce API costs and eliminate manual data entry."**
 
---------------------------------------------------
+I specialize in **production-grade AI automation** — building workflows that don't break, don't burn budgets, and deliver real business value.
 
-🛠️ **Technical Toolbox:**
-* **AI & No-Code:** n8n, Make.com, API Integrations, AI Agents, Prompt Engineering
-* **Programming Languages:** C, C++, JavaScript (Node.js), Python (Core - Learning)
-* **Backend & Data:** Node.js, Express, REST APIs, JSON, Google Sheets Automation
+---
 
---------------------------------------------------
+## 🛠️ What I Build
 
-🔭 **Current Projects & Focus:**
-* **Sahajatri Health (সহযাত্রী হেলথ):** Developing an end-to-end healthcare chat automation using n8n and AI Agents. (Building in Public!)
-* **Competitive Programming:** Constantly training my brain and refining problem-solving metrics on various online judges.
+| Domain | Technologies |
+|--------|--------------|
+| **Workflow Orchestration** | n8n, Make.com, Webhooks, REST APIs, JSON Transformation |
+| **AI & Agents** | MCP (Model Context Protocol), OpenClaw, Prompt Engineering, Multi-Agent Orchestration (Paperclip, Hermes), Retell AI (Voice Agents) |
+| **Knowledge Systems** | RAG (Retrieval-Augmented Generation), Vector Databases (Supabase, pgvector) |
+| **Data & Automation** | Web Scraping (Apify), JavaScript, Python, Git & GitHub |
+| **Cloud & Deployment** | AWS (EC2), Render, Environment Management, SSL/HTTPS Setup |
 
---------------------------------------------------
+---
 
-🔗 **Let's Connect & My Programming Hub:**
+## 🧠 Featured Projects
+
+### 1. 🤖 Multi-Agent Corporate Orchestration Engine (Paperclip & Hermes)
+- Built a "Zero-Human Company" framework with multi-agent orchestration
+- Implemented budget caps, per-agent cost tracking, failure handling, and human oversight guardrails
+- Multi-provider live model switching with persistent memory (MEMORY.md, USER.md)
+
+### 2. 🎙️ Real-Time AI Voice Agent & Financial Analytics Pipeline
+- Production-grade voice agent using **Retell AI** with custom conversational flows
+- Connected live financial APIs (Stocks & Crypto) for real-time data ingestion
+- Auto-generated AI summaries and alerts via n8n backend
+
+### 3. 📹 End-to-End Media & Content Automation Engine
+- Complete YouTube automation: idea generation → trend research → script/thumbnail generation → publishing
+- Automated scheduling, tagging, and error monitoring via YouTube API
+
+### 4. 📧 Enterprise Lead Generation & Cold Outreach Pipeline
+- Apify web scrapers + AI-driven lead qualification + automated CRM routing
+- Cold email outreach with warmup configs, personalized AI copy, follow-ups, and open/reply tracking
+
+### 5. 🧠 RAG System with Vector Database
+- High-precision document Q&A using **Supabase Vector DB (pgvector)** and n8n
+- Full pipeline: ingestion → chunking → embedding → storage → retrieval → generation
+- 70% reduction in hallucination vs raw LLM queries
+
+---
+
+## 💡 Why Work With Me?
+
+- **Token Optimization:** I implement 4-stage input filtering (Filter → Code Clean → Regex Routing → XML Guardrails) to cut API costs by up to 50-70%
+- **Self-Healing Systems:** Every workflow includes error handling, retry logic, and fallback paths
+- **Production-Ready:** I deploy with FANG-grade SRE monitoring (Central Control Plane + Telegram Alerts)
+- **Clear Documentation:** Every delivery includes video walkthroughs and simple documentation
+
+---
+
+## 🔗 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/md-yeasin-arafat-848387254" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/mdyeasinaraf07" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:mdyeasinaraf07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/md-yeasin-arafat-848387254" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mdyeasinaraf07" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:mdyeasinaraf07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
-|  [<img src="https://img.shields.io/badge/Codeforces-B1361F?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />](https://codeforces.com/profile/mdyeasinaraf07) | [<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />](https://leetcode.com/Yeasinaraf/) | [<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />](https://www.codechef.com/users/mdyeasinaraf07) | 
-|---|---|---|
+---
 
---------------------------------------------------
+## 📊 GitHub Stats
 
-### 📈 GitHub Profile Insights
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdyeasinaraf07&show_icons=true&theme=dark)
 
-| Metric | Target / Status |
-| :--- | :--- |
-| 🚀 **Current Focus** | AI Automation & Algorithmic Problem Solving |
-| 💻 **Top Skills** | C++, JavaScript, n8n Automation, REST APIs |
-| 🎯 **2026 Goal** | Building 5+ Production-Grade AI Agentic Workflows |
-| 🟢 **Contribution Activity** | Shifting gear to daily active commits! |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeasinaraf07&layout=compact&theme=dark)
 
+---
+
+## 🎯 2026 Goals
+
+- [x] Complete Diploma in Computer Science & Technology
+- [x] Master AI Automation & Build AI Agents (Ostad)
+- [ ] Build 5+ Production-Grade AI Agentic Workflows
+- [ ] Scale up as a Full-Stack AI Solutions Engineer
+
+---
+
+> *"The future of AI is not answering questions — it's running systems."*
+
+---
