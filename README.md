@@ -11,9 +11,9 @@
 
 ### 🚀 About Me
 
-I am an **AI Automation Engineer** with a powerful foundation in algorithmic problem-solving and competitive programming[cite: 1]. I have completed my **Diploma in Computer Science & Technology** from Infra Polytechnic Institute[cite: 1]. 
+I am an **AI Automation Engineer** with a powerful foundation in algorithmic problem-solving and competitive programming. I have completed my **Diploma in Computer Science & Technology** from Infra Polytechnic Institute. 
 
-I specialize in architectural optimization—building cost-optimized, deterministic workflow automations using **n8n**, launching low-latency voice agents, and deploying advanced RAG pipelines[cite: 1]. By fusing my deep algorithmic background with agentic frameworks, I engineer production-grade AI applications that minimize API token overhead and maximize business efficiency[cite: 1].
+I specialize in architectural optimization—building cost-optimized, deterministic workflow automations using **n8n**, launching low-latency voice agents, and deploying advanced RAG pipelines. By fusing my deep algorithmic background with agentic frameworks, I engineer production-grade AI applications that minimize API token overhead and maximize business efficiency.
 
 ---
 
@@ -23,7 +23,7 @@ I constantly train my brain to handle scale, edge cases, and runtime optimizatio
 * 🏆 **500+ Algorithmic Problems Solved** across multiple online judges.
 * 🔴 **AtCoder:** Peak Rating **1300+**
 * 🔵 **Codeforces:** Active Contestant with a **900+** Rating.
-* 🤝 **Contest History:** Participated in UGV Programming Contest (SZPC 2022 & 2023)[cite: 1].
+* 🤝 **Contest History:** Participated in UGV Programming Contest (SZPC 2022 & 2023).
 
 ---
 
@@ -34,18 +34,18 @@ I constantly train my brain to handle scale, edge cases, and runtime optimizatio
     <td valign="top" width="50%">
       <h4>🤖 AI & Agentic Orchestration</h4>
       <ul>
-        <li><b>Workflow Automation:</b> n8n, Make.com[cite: 1]</li>
-        <li><b>Agentic Frameworks:</b> Multi-Agent Orchestration (Paperclip), Self-Improving Agents (Hermes)[cite: 1]</li>
-        <li><b>Voice Automation:</b> Retell AI (Bilingual Voice Agents)[cite: 1]</li>
-        <li><b>Protocols:</b> Model Context Protocol (MCP), Context Engineering, OpenClaw, Prompt Optimization[cite: 1]</li>
+        <li><b>Workflow Automation:</b> n8n, Make.com</li>
+        <li><b>Agentic Frameworks:</b> Multi-Agent Orchestration (Paperclip), Self-Improving Agents (Hermes)</li>
+        <li><b>Voice Automation:</b> Retell AI (Bilingual Voice Agents)</li>
+        <li><b>Protocols:</b> Model Context Protocol (MCP), Context Engineering, OpenClaw, Prompt Optimization</li>
       </ul>
     </td>
     <td valign="top" width="50%">
       <h4>📊 Data & AI Infrastructure</h4>
       <ul>
-        <li><b>Context Architecture:</b> Retrieval-Augmented Generation (RAG)[cite: 1]</li>
-        <li><b>Vector Databases:</b> Supabase, pgvector[cite: 1]</li>
-        <li><b>Data Processing:</b> JSON Data Transformation, REST APIs & Webhooks, Apify (Web Scraping)[cite: 1]</li>
+        <li><b>Context Architecture:</b> Retrieval-Augmented Generation (RAG)</li>
+        <li><b>Vector Databases:</b> Supabase, pgvector</li>
+        <li><b>Data Processing:</b> JSON Data Transformation, REST APIs & Webhooks, Apify (Web Scraping)</li>
       </ul>
     </td>
   </tr>
@@ -53,16 +53,16 @@ I constantly train my brain to handle scale, edge cases, and runtime optimizatio
     <td valign="top" width="50%">
       <h4>💻 Core Programming & Systems</h4>
       <ul>
-        <li><b>Languages:</b> C, C++, JavaScript (Node.js/Express), Python[cite: 1]</li>
+        <li><b>Languages:</b> C, C++, JavaScript (Node.js/Express), Python</li>
         <li><b>Methodologies:</b> Complex Data Structures, OOP, API Engineering</li>
-        <li><b>Version Control:</b> Git & GitHub[cite: 1]</li>
+        <li><b>Version Control:</b> Git & GitHub</li>
       </ul>
     </td>
     <td valign="top" width="50%">
       <h4>☁️ Cloud & Production Deployment</h4>
       <ul>
-        <li><b>Platforms:</b> AWS (EC2), Render[cite: 1]</li>
-        <li><b>Security & Ops:</b> SSL/HTTPS Production Setup, Environment Variable & Secret Management[cite: 1]</li>
+        <li><b>Platforms:</b> AWS (EC2), Render</li>
+        <li><b>Security & Ops:</b> SSL/HTTPS Production Setup, Environment Variable & Secret Management</li>
       </ul>
     </td>
   </tr>
@@ -73,33 +73,33 @@ I constantly train my brain to handle scale, edge cases, and runtime optimizatio
 ### 🔭 Advanced Projects & Production Focus
 
 #### 1. 🤖 Multi-Agent Corporate Orchestration Engine (Paperclip & Hermes)
-* Engineered a **"Zero-Human Company"** agentic framework built on multi-agent collaboration topologies[cite: 1].
+* Engineered a **"Zero-Human Company"** agentic framework built on multi-agent collaboration topologies.
 * Implemented strict budget caps, real-time per-agent LLM cost tracking, advanced exception/failure handling, and human-in-the-loop oversight guardrails.
 * Developed multi-provider live model switching with persistent vector-backed state memory (`MEMORY.md`, `USER.md`).
 
 #### 2. 🎙️ Real-Time AI Voice Agent & Financial Analytics Pipeline
-* Deployed a production-grade bilingual voice agent utilizing **Retell AI** to execute ultra-low latency custom conversational flows[cite: 1].
+* Deployed a production-grade bilingual voice agent utilizing **Retell AI** to execute ultra-low latency custom conversational flows.
 * Integrated real-time financial APIs (Stocks & Crypto) for live data ingestion during ongoing calls.
-* Configured an n8n backend pipeline to auto-generate structural post-call summaries, trigger webhooks, and push automated user alerts[cite: 1].
+* Configured an n8n backend pipeline to auto-generate structural post-call summaries, trigger webhooks, and push automated user alerts.
 
 #### 3. 🧠 Enterprise RAG System with Vector Database
-* Built a high-precision document Q&A engine utilizing **Supabase Vector DB (pgvector)** and n8n backend architectures[cite: 1].
-* Developed the entire data pipeline: Document ingestion -> Semantic Chunking -> Embedding Generation -> Storage -> Hybrid Retrieval -> Contextual Generation[cite: 1].
+* Built a high-precision document Q&A engine utilizing **Supabase Vector DB (pgvector)** and n8n backend architectures.
+* Developed the entire data pipeline: Document ingestion -> Semantic Chunking -> Embedding Generation -> Storage -> Hybrid Retrieval -> Contextual Generation.
 * Achieved a **70% reduction in hallucination** compared to raw LLM contextual queries through optimized prompt structuring and metadata filtering.
 
 #### 4. 📹 End-to-End Media & Content Automation Engine
 * Developed an autonomous YouTube automation pipeline spanning trend analysis, dynamic script generation, automated thumbnail synthesis, and direct media publishing via the YouTube API.
-* Implemented automated content scheduling, smart tagging algorithms, and automated execution error monitoring via an integrated n8n workflow[cite: 1].
+* Implemented automated content scheduling, smart tagging algorithms, and automated execution error monitoring via an integrated n8n workflow.
 
 ---
 
 ### 📜 Certifications & Experience
 
-* 🎓 **Master AI Automation & Build AI Agents** – Issued by Ostad (March 2026)[cite: 1]
+* 🎓 **Master AI Automation & Build AI Agents** – Issued by Ostad (March 2026)
 * 💻 **CSE Fundamentals** – Issued by Phitron
-* 🚀 **Student Intern (Web Development)** – Next Barisal (8th Semester Internship)[cite: 1]
+* 🚀 **Student Intern (Web Development)** – Next Barisal (8th Semester Internship)
 * 📣 **Campus Ambassador** – Programming Hero
-* 🏆 **Programming Contest (SZPC 2022 & 2023)** – University of Global Village (UGV), Barishal[cite: 1]
+* 🏆 **Programming Contest (SZPC 2022 & 2023)** – University of Global Village (UGV), Barishal
 
 ---
 
@@ -121,6 +121,6 @@ I constantly train my brain to handle scale, edge cases, and runtime optimizatio
 | Metric | Target / Status |
 | :--- | :--- |
 | 🚀 **Current Focus** | High-Throughput AI Architecture & Algorithmic Optimization |
-| 💻 **Top Skills** | n8n Automation, C++, Multi-Agent Systems, pgvector Architecture[cite: 1] |
-| 🎯 **2026 Goal** | Scaling production-grade AI multi-agent teams across AWS infrastructures[cite: 1] |
+| 💻 **Top Skills** | n8n Automation, C++, Multi-Agent Systems, pgvector Architecture |
+| 🎯 **2026 Goal** | Scaling production-grade AI multi-agent teams across AWS infrastructures |
 | 🟢 **Contribution Activity** | Shifting gear to daily active commits! |
