@@ -54,7 +54,7 @@ I constantly train my brain to handle scale, edge cases, and runtime optimizatio
       <h4>💻 Core Programming & Systems</h4>
       <ul>
         <li><b>Languages:</b> C, C++, JavaScript (Node.js/Express), Python</li>
-        <li><b>Methodologies:</b> Complex Data Structures, OOP, API Engineering</li>
+        <li><b>Methodologies:</b> Complex Data Structures, Algorithms, OOP, API Engineering</li>
         <li><b>Version Control:</b> Git & GitHub</li>
       </ul>
     </td>
