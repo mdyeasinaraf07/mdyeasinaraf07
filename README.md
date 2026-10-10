@@ -1,4 +1,4 @@
-# Hi there, I'm Md Yeasin Arafat 👋
+# Hi, I'm Md Yeasin Arafat 👋
 
 - 🎓 Diploma in Computer Science & Technology, Infra Polytechnic Institute
 - 🌱 Currently learning: Machine Learning and Deep Learning
