@@ -2,7 +2,7 @@
 
 - 🎓 Diploma in Computer Science & Technology, Infra Polytechnic Institute
 - 🌱 Currently learning: Machine Learning and Deep Learning
-- 🥅 2026 Goals: Build real projects and grow into an AI/ML engineering role
+- 🥅 2027 Goals: Build real projects and grow into an AI/ML engineering role
 - ⚡ Fun fact: I love solving problems with code, from contest puzzles to real-world systems
 
 ### Connect with me:
@@ -49,10 +49,10 @@
 
 ![Md Yeasin Arafat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdyeasinaraf07)
 
-](https://github.com/mdyeasinaraf07)
+]
 
 [
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeasinaraf07&langs_count=8)
 
-](https://github.com/mdyeasinaraf07)
+]
